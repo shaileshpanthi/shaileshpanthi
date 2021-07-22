@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaileshpanthi
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R
+- 👀 I’m interested in Data Science and Business Strategy
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on solving case studies
 
 
